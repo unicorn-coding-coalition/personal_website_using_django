@@ -1,5 +1,5 @@
 # personal_website_using_django
-Code for my personal website
+Django/Python/HTML/CSS Code for my personal website
 
 ![alt text](https://github.com/nicolenlama/personal_website_using_django/blob/main/djangobloghomepage.jpg)
 ![alt text](https://github.com/nicolenlama/personal_website_using_django/blob/main/djangoblogblogpage.jpg)
